@@ -1,0 +1,44 @@
+{
+    "More":
+    [
+  {
+    "id":1,
+    "judul":"Horror Novel",
+    "image":"https://play-lh.googleusercontent.com/4Wwi9NgLkRuDa2SPNtNz95tqTGk3tlpXeMOgfU0sJ5ICo9s4yMExPu8_oHZvSlxzI=s180-rw",
+    "link":"https://play.google.com/store/apps/details?id=com.horror.novelBooks"
+  },
+  {
+    "id":2,
+    "judul":"Novel In Periodicals",
+    "image":"https://play-lh.googleusercontent.com/4Wwi9NgLkRuDa2SPNtNz95tqTGk3tlpXeMOgfU0sJ5ICo9s4yMExPu8_oHZvSlxzI=s180-rw",
+     "link":"https://play.google.com/store/apps/details?id=com.novel.InPeriodicalsBooks"
+  },
+  {
+    "id":3,
+    "judul":"Advanture Novels",
+    "image":"https://play-lh.googleusercontent.com/4Wwi9NgLkRuDa2SPNtNz95tqTGk3tlpXeMOgfU0sJ5ICo9s4yMExPu8_oHZvSlxzI=s180-rw",
+    "link":"https://play.google.com/store/apps/details?id=com.Adventure.NovelBooks"
+  }
+],
+
+    "Iklan": [
+        {
+        "status": "0",
+        "link": "https://play.google.com/store/apps/details?id=com.novel.InPeriodicalsBooks",
+        "pengaturan_iklan":"1",
+        "startappid":"12345678",
+        "admob_inter": "ca-app-pub-8861739205405076/9633374218",
+        "admob_native": "ca-app-pub-8861739205405076/7198782566",
+        "admob_open": "ca-app-pub-8861739205405076/9633374218",
+        "fan_inter": "981545408591412_999151030164183",
+        "fan_native_banner": "981545408591412_2870610639684870",
+        "interval": 2,
+        "hpk_admob1":"",
+        "hpk_admob2":"",
+        "hpk_admob3":"",
+        "hpk_admob4":"",
+        "hpk_admob5":""
+        }
+    ]
+
+}
